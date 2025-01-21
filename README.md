@@ -5,13 +5,5 @@ Example :
 https://iam.melewati.com
 
 Teknik NSLOOKUP dengan Berbagai Provider di INDONESIA 
-- TELKOM
-- INDOSAT
-- XL
-- SPEEDY
-- BIZNET
-- FASTNET
-- ICONNECT
+NB : Di Setiap DNS Provider memeliki Jeda waktu yang tidak bersamaan . Namun dapat dipastikan semua akan berkerja kurang dari 6 jam setelah pemblokiran ( Internet Positif ) .
 
-
-  NB : Di Setiap DNS Provider memeliki Jeda waktu yang tidak bersamaan . Namun dapat dipastikan semua akan berkerja kurang dari 6 jam setelah pemblokiran ( Internet Positif ) .
